@@ -8,3 +8,4 @@
 - PostCSS
 - Autoprefixer
 - Tailwind CSS
+- Apollo
