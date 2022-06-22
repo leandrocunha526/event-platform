@@ -6,7 +6,7 @@ Este projeto está em desenvolvimento sob orientação do Diego Fernandes da Roc
 
 ## Sobre o projeto
 
-A aplicação Event Platform será desenvolvida durante a semana do evento [Ignite Lab 02](https://lp.rocketseat.com.br/inscricao/ignite-lab) realizado pela Rocketseat. Esse projeto será uma plataforma web de eventos feita com:
+A aplicação Event Platform desenvolvida durante a semana do evento [Ignite Lab 02](https://lp.rocketseat.com.br/inscricao/ignite-lab) realizado pela Rocketseat. Esse projeto será uma plataforma web de eventos feita com:
 
 - React
 - Typescript
