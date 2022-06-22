@@ -36,6 +36,10 @@ npm run dev
 # O servidor inciará na porta 3000 e o link para acesso é http://localhost:3000
 ```
 
+## Design
+
+[Acesse em Figma](https://www.figma.com/community/file/1120711251998877938)
+
 ## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
