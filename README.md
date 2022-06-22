@@ -16,6 +16,7 @@ A aplicação Event Platform será desenvolvida durante a semana do evento [Igni
 - PostCSS
 - Autoprefixer
 - Tailwind CSS
+- Vite
 
 ## Instalação e uso
 
