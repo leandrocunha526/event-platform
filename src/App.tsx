@@ -1,4 +1,4 @@
-import { Event } from "./pages/Event"
+import { Event } from "./pages/Event";
 
 function App() {
 
