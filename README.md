@@ -22,7 +22,7 @@ A aplicação Event Platform será desenvolvida durante a semana do evento [Igni
 
 ```bash
 # Clone o repositório
-git clone https://github.com/mateusabelli/ignite-event-platform.git
+git clone https://github.com/leandrocunha526/ignite-event-platform.git
 
 # Acesse a pasta do projeto
 cd ignite-event-platform
