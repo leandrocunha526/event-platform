@@ -88,7 +88,7 @@ export function Video(props: VideoProps){
                             <DiscordLogo size={24}/>
                             Comunidade do Discord
                         </a>
-                        <a href="" className="flex items-center justify-center gap-2 p-4 text-sm font-bold text-blue-500 uppercase transition-colors border rounded border-blug-500 hover:bg-blue-500 hover:text-gray-900">
+                        <a href="" className="flex items-center justify-center gap-2 p-4 text-sm font-bold text-blue-500 uppercase transition-colors border border-blue-500 rounded hover:bg-blue-500 hover:text-gray-900">
                             <Lightning size={24}/>
                             Acesse o desafio
                         </a>
