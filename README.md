@@ -2,14 +2,14 @@
 
 ![](https://s3-alpha.figma.com/hub/file/2007691008/8c1ae350-a48a-4119-8906-f8e591d041da-cover.png)
 
-Este projeto está em desenvolvimento sob orientação do Diego Fernandes da Rocketseat.
+Este projeto foi desenvolvido sob orientação do Diego Fernandes da Rocketseat.
 
 ## Sobre o projeto
 
 A aplicação Event Platform desenvolvida durante a semana do evento [Ignite Lab 02](https://lp.rocketseat.com.br/inscricao/ignite-lab) realizado pela Rocketseat. Esse projeto será uma plataforma web de eventos feita com:
 
 - React
-- Typescript
+- TypeScript
 - GraphQL
 - GraphCMS
 - Apollo
