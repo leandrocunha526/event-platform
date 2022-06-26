@@ -1,12 +1,8 @@
-# Event Platform - Ignite Lab 02
-
-![](https://s3-alpha.figma.com/hub/file/2007691008/8c1ae350-a48a-4119-8906-f8e591d041da-cover.png)
-
-Este projeto foi desenvolvido sob orientação do Diego Fernandes da Rocketseat.
-
+# Event Platform - Ignite Lab
 ## Sobre o projeto
 
-A aplicação Event Platform desenvolvida durante a semana do evento [Ignite Lab 02](https://lp.rocketseat.com.br/inscricao/ignite-lab) realizado pela Rocketseat. Esse projeto será uma plataforma web de eventos feita com:
+A aplicação Event Platform foi desenvolvida durante a semana do evento Ignite Lab realizado pela Rocketseat no ano de 2022. Com as orientações do CTO da Rocketseat Diego Fernandes (@diego3g).  
+Esse projeto é uma plataforma para divulgação de conteúdo dos eventos usando:
 
 - React
 - TypeScript
@@ -17,23 +13,33 @@ A aplicação Event Platform desenvolvida durante a semana do evento [Ignite Lab
 - Autoprefixer
 - Tailwind CSS
 - Vite
+- GraphQL Code Generator
+- Classnames
 
 ## Instalação e uso
 
+### Clone o repositório
+
 ```bash
-# Clone o repositório
 git clone https://github.com/leandrocunha526/ignite-event-platform.git
+```
+### Acesse a pasta do projeto
 
-# Acesse a pasta do projeto
-cd ignite-event-platform
+```bash
+cd event-platform
+```
 
-# Instale as dependências
+### Instale as dependências
+```bash
 npm install
+```
 
-# Execute a aplicação
+### Execute a aplicação
+```bash
+
 npm run dev
 
-# O servidor inciará na porta 3000 e o link para acesso é http://localhost:3000
+O servidor inciará na porta 3000 e o link para acesso é http://localhost:3000
 ```
 
 ## Design
