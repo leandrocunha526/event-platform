@@ -17,6 +17,8 @@ A aplicação Event Platform desenvolvida durante a semana do evento [Ignite Lab
 - Autoprefixer
 - Tailwind CSS
 - Vite
+- GraphQL Code Generator
+- Classnames
 
 ## Instalação e uso
 
