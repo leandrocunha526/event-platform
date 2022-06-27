@@ -27,7 +27,7 @@ A aplicação Event Platform desenvolvida durante a semana do evento [Ignite Lab
 git clone https://github.com/leandrocunha526/ignite-event-platform.git
 
 # Acesse a pasta do projeto
-cd ignite-event-platform
+cd event-platform
 
 # Instale as dependências
 npm install
