@@ -22,20 +22,28 @@ A aplicação Event Platform desenvolvida durante a semana do evento [Ignite Lab
 
 ## Instalação e uso
 
+### Clone o repositório
+
 ```bash
-# Clone o repositório
 git clone https://github.com/leandrocunha526/ignite-event-platform.git
+```
+### Acesse a pasta do projeto
 
-# Acesse a pasta do projeto
+```bash
 cd event-platform
+```
 
-# Instale as dependências
+### Instale as dependências
+```bash
 npm install
+```
 
-# Execute a aplicação
+### Execute a aplicação
+```bash
+
 npm run dev
 
-# O servidor inciará na porta 3000 e o link para acesso é http://localhost:3000
+O servidor inciará na porta 3000 e o link para acesso é http://localhost:3000
 ```
 
 ## Design
